@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?slice=wave&&"B6DCB6"=auto&3=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?slice=wave&&"B6DCB6"=auto&3=300&section=header&Hyunseo-ing=capsule%20render&fontSize=90)
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=black"/> 
 
