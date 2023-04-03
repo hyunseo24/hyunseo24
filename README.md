@@ -4,7 +4,7 @@
       현서는 무언가 하는중...
 
 <br/><br/><br/><br/><br/>
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> 
+      
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Joplin-Forge&logoColor=white"/>
       <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/>
@@ -12,7 +12,8 @@
       <img src="https://img.shields.io/badge/Windows-007BD4?style=flat-square&logo=Windows 11&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Game Developer-E60012?style=flat-square&logo=Game Developer&logoColor=white"/>
-      
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> 
+      <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=black"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&layout=compact)](https://github.com/hyunseo24/github-readme-stats)
 </div>
