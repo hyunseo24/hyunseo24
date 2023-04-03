@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?slice=wave&&"B6DCB6"=auto&3=300&section=header&text=Hyunseo-ing&capsule%20render&fontSize=60)
 
 <div align="center">
-      현서는 무언가 하는중...
+      현서ing...
 
 <br/><br/><br/><br/><br/>    
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -15,4 +15,3 @@
       <img src="https://img.shields.io/badge/Unreal Engine-E71D29?style=flat&logo=Unreal Engine&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&layout=compact)](https://github.com/hyunseo24/github-readme-stats)
-</div>
