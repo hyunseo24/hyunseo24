@@ -8,7 +8,6 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Joplin-Forge&logoColor=white"/>
       <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Node.js&logoColor=white"/> <br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-007BD4?style=flat-square&logo=Windows 11&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
