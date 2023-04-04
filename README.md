@@ -10,7 +10,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-007BD4?style=flat-square&logo=Windows 11&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>    
-      <img src="https://img.shields.io/badge/Game Developer-E60012?style=flat-square&logo=Game Developer&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> 
       <img src="https://img.shields.io/badge/Unreal Engine-E71D29?style=flat&logo=Unreal Engine&logoColor=white"/> 
 
