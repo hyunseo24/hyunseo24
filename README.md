@@ -13,4 +13,4 @@
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/> 
       <img src="https://img.shields.io/badge/Unreal Engine-E71D29?style=flat&logo=Unreal Engine&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugyeoj1n&layout=compact&theme=nord&exclude_repo=natural-language-processing)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&layout=compact&theme=nord&exclude_repo=natural-language-processing)](https://github.com/anuraghazra/github-readme-stats)
