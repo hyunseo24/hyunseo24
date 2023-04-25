@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?slice=wave&&"B6DCB6"=auto&3=300&section=header&text=Hyunseo-ing&capsule%20render&fontSize=60)
 
 <div align="center">
-      셤기간 싫어잉..
+      시험 끝! 본격 UE4 공부 시작
 
 <br/><br/><br/><br/><br/>    
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
