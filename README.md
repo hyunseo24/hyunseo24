@@ -11,4 +11,4 @@
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/>
       <img src="https://img.shields.io/badge/Unreal Engine-E71D29?style=flat&logo=Unreal Engine&logoColor=white"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&hide=Shaderlab,Objective-C,Objective-C++,HLSL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&&hide=Shaderlab,Objective-C,Objective-C++&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
