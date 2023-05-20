@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?slice=wave&&"B6DCB6"=auto&3=300&section=header&text=Hyunseo-ing&capsule%20render&fontSize=60)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20HYUNSEOing%20%20&fontAlign=30&fontSize=30&textBg=true&desc=시험기간%20ing..&descAlign=60&descAlignY=50)
 
 <div align="center">
       현서ing
@@ -11,3 +11,4 @@
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Gray"/>
       <img src="https://img.shields.io/badge/Unreal Engine-E71D29?style=flat&logo=Unreal Engine&logoColor=white"/> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseo24&layout=compact)](https://github.com/hyunseo24/github-readme-stats)
