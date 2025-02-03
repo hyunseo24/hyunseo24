@@ -14,7 +14,7 @@
 + `2023.12 ~ 2024.12` Media Director of **CONNECT**, _the 8th Student Council of the College of Software, Kookmin Univ_
 
 **:bookmark_tabs: Recent Projects**
-+ `2025.01 ~` Annotify: A Human-in-the-Loop Web Platform for Pathology WSI Segmentation and Detection
++ `2025.01 ~` A Human-in-the-Loop Web Platform for Pathology WSI Segmentation and Detection
 + `2024.07 ~ 2024.12` Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System
 + `2024.09 ~ 2024.10` Gene Expression Prediction from Histopathology Images using Multi-label classification
 + `2024.01 ~ 2024.06` Blueprint-Driven Codeblock Algorithm Explainer and Codeblock-to-Programming Code Converter Chatbot
