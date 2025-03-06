@@ -15,6 +15,7 @@
 
 **:bookmark_tabs: Recent Projects**
 + `2025.01 ~` A Human-in-the-Loop Web Platform for Pathology WSI Segmentation and Detection
++ `2025.01 ~ 2025.02` _BOAZ_MiniProject_ Wildfire Detection via Remote Sensing Burned Area Imagery using Sementic Segmentation
 + `2024.07 ~ 2024.12` Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System
 + `2024.09 ~ 2024.10` Gene Expression Prediction from Histopathology Images using Multi-label classification
 + `2024.01 ~ 2024.06` Blueprint-Driven Codeblock Algorithm Explainer and Codeblock-to-Programming Code Converter Chatbot
